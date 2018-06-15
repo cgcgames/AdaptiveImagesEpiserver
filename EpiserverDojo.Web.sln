@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiserverDojo.Web", "EpiserverDojo.Web\EpiserverDojo.Web.csproj", "{C6BA4EF6-6E1D-4654-AF8C-71595F7192AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BA4EF6-6E1D-4654-AF8C-71595F7192AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BA4EF6-6E1D-4654-AF8C-71595F7192AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BA4EF6-6E1D-4654-AF8C-71595F7192AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BA4EF6-6E1D-4654-AF8C-71595F7192AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F89FA6E-1B02-4E77-B15A-8FD2446A4926}
+	EndGlobalSection
+EndGlobal
